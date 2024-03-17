@@ -17,9 +17,6 @@ La búsqueda de propiedades es una actividad común tanto para compradores como 
 ## Objetivo
 Crear una aplicación fácil de usar que simplifique el proceso de búsqueda de propiedades, brindando a los usuarios una experiencia eficiente y personalizada al encontrar su próximo hogar o inversión inmobiliaria.
 
-## Contribuciones
-Se invita a otros desarrolladores y profesionales del sector inmobiliario a contribuir al proyecto compartiendo sus conocimientos, datos y experiencias. Las contribuciones son bienvenidas y pueden enriquecer la utilidad de la aplicación para la comunidad.
-
 ## Perfil
 Hola, mi nombre es Santiago Velásquez Jaramillo, tengo 23 años y estudio Ingeniería de Sistemas e informática en la Universidad Nacional de Colombia sede Medellín, tengo experiencia en el mundo del testing, alta adaptación a entornos y metodologías de trabajo.
 
