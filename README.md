@@ -26,10 +26,7 @@ Crear una aplicación fácil de usar que simplifique el proceso de búsqueda de 
 Se invita a otros desarrolladores y profesionales del sector inmobiliario a contribuir al proyecto compartiendo sus conocimientos, datos y experiencias. Las contribuciones son bienvenidas y pueden enriquecer la utilidad de la aplicación para la comunidad.
 
 ## Perfil
-1.Nombre: Santiago Velásquez Jaramillo
-2.Edad: 23 años
-3.Estudio: Ingeniería de Sistemas e informática en la Universidad Nacional de Colombia sede Medellín
-4.Experiencia en: Mundo del testing, adaptación a entornos y metodologías de trabajo.
+Hola, mi nombre es Santiago Velásquez Jaramillo, tengo 23 años y estudio Ingeniería de Sistemas e informática en la Universidad Nacional de Colombia sede Medellín, tengo experiencia en el mundo del testing, alta adaptación a entornos y metodologías de trabajo.
 
 ## Habilidades técnicas
 ### Lenguajes de programación
