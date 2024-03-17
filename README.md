@@ -5,7 +5,7 @@ En este repositorio veremos un poco de la información sobre la app que desarrol
 Una aplicación que permite a los usuarios buscar propiedades disponibles para la venta o alquiler en una ubicación específica, con filtros personalizables y herramientas de comparación.
 
 ## Justificación de la idea
-La búsqueda de propiedades es una actividad común tanto para compradores como para inquilinos, y una aplicación que facilite este proceso podría atraer a una amplia audiencia.
+La realidad que experimentamos hoy en día en cuanto a el mundo de las bienes raíces en la ciudad de Medellín y en el mundo es un problema innegable día a día la gente está buscando casas en arriendo y abandonando casas, por lo que tanto dueños de propiedades como arrendatarios están en constante flujo, hoy en día contamos con algunas páginas para subir nuestro inmueble o buscar uno nuevo, pero la mayoría de las veces dan prioridad a casas caras que la mayoría no tiene el poder adquisitivo como para poder arrendarla, por lo que Busca Tu Casa quiere ayudarte en este proceso para encontrar casas para todos los presupuestos y ayudar a arrendatarios a no perder su dinero con una casa desocupada.
 
 ## Uso de las librerías
 - **NumPy:** Para cálculos relacionados con el precio por metro cuadrado y otros análisis financieros.
