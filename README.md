@@ -8,11 +8,16 @@ Una aplicación que permite a los usuarios buscar propiedades disponibles para l
 La búsqueda de propiedades es una actividad común tanto para compradores como para inquilinos, y una aplicación que facilite este proceso podría atraer a una amplia audiencia.
 
 ## Uso de las librerías
-### NumPy: Para cálculos relacionados con el precio por metro cuadrado y otros análisis financieros.
-### Pandas: Para la gestión y manipulación de datos de propiedades y preferencias de los usuarios.
-### Matplotlib: Para generar visualizaciones como gráficos de precios por ubicación.
-### Scipy: Para análisis estadísticos sobre precios y tendencias del mercado inmobiliario.
-### Geopandas: Para la visualización de propiedades en mapas interactivos y la búsqueda basada en ubicación.
+### NumPy
+Para cálculos relacionados con el precio por metro cuadrado y otros análisis financieros.
+### Pandas
+Para la gestión y manipulación de datos de propiedades y preferencias de los usuarios.
+### Matplotlib
+Para generar visualizaciones como gráficos de precios por ubicación.
+### Scipy
+Para análisis estadísticos sobre precios y tendencias del mercado inmobiliario.
+### Geopandas
+Para la visualización de propiedades en mapas interactivos y la búsqueda basada en ubicación.
 
 ## Objetivo
 Crear una aplicación fácil de usar que simplifique el proceso de búsqueda de propiedades, brindando a los usuarios una experiencia eficiente y personalizada al encontrar su próximo hogar o inversión inmobiliaria.
