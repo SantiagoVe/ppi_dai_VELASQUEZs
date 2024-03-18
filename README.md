@@ -1,4 +1,4 @@
-# Busca Tu Casa: Tu Navegador de Propiedades Personalizado.
+# Busca tu casa: tu navegador de propiedades personalizado.
 En este repositorio veremos un poco de la información sobre la app que desarrollaré sobre bienes raíces para mi proyecto de Programación Para Ingeniería en el semestre 2024-1
 
 ## Descripción de la idea
